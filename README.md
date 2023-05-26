@@ -6,7 +6,8 @@
             <title>Version 1.6.24</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Fri, 26 May 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.ebixi.ebiximobiley" sparkle:version="1.6.240" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.ebixi.ebiximobile" sparkle:version="1.6.240" sparkle:os="android" />
+            <enclosure url="https://apps.apple.com/us/app/ebixi/id1670057128" sparkle:version="1.6.24" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
