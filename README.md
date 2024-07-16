@@ -5,11 +5,11 @@
     <title>Releases</title>
     <item>
       <title>Android Release</title>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.ebixi.ebiximobile" sparkle:version="1.9.04" sparkle:os="android"/>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.ebixi.ebiximobile" sparkle:version="1.9.08" sparkle:os="android"/>
     </item>
     <item>
       <title>iOS Release</title>
-      <enclosure url="https://apps.apple.com/us/app/ebixi/id1670057128" sparkle:version="1.9.04" sparkle:os="ios"/>
+      <enclosure url="https://apps.apple.com/us/app/ebixi/id1670057128" sparkle:version="1.9.08" sparkle:os="ios"/>
     </item>
   </channel>
 </rss>
