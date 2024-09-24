@@ -9,7 +9,7 @@
     </item>
     <item>
       <title>iOS Release</title>
-      <enclosure url="https://apps.apple.com/us/app/ebixi/id1670057128" sparkle:version="1.9.141" sparkle:os="ios"/>
+      <enclosure url="https://apps.apple.com/us/app/ebixi/id1670057128" sparkle:version="1.9.08" sparkle:os="ios"/>
     </item>
   </channel>
 </rss>
