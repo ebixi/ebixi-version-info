@@ -5,7 +5,7 @@
     <title>Releases</title>
     <item>
       <title>Android Release</title>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.ebixi.ebiximobile" sparkle:version="1.9.158" sparkle:os="android"/>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.ebixi.ebiximobile" sparkle:version="1.9.157" sparkle:os="android"/>
     </item>
     <item>
       <title>iOS Release</title>
